@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwivs/W6Fe4sGziHHUnXEsRz5zNSetA6H/n8ZO8S5pJAugycSf3RgViQRz8JYDlzd1MUQ0nfrthiXpb80MmepQ==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/AllForOne API/AllForOne API.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
